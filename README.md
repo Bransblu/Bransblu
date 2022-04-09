@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌱 I'm currently leaning data analysis through University of Oregon (2U) bootcamp. I hope to expand on my knowledge of Excel, Python, SQL, R, Numpy, and Tableau. 
+🌱 I'm currently learning data analysis through University of Oregon (2U) bootcamp. I hope to expand on my knowledge of Python, SQL, R, Numpy, and Tableau. 
 
 👯 I’m looking to collaborate on anything to expand my knowledge and portfolio. We all have to start somewhere!
 
