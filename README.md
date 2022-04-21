@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-🌱 I'm currently learning data analysis through University of Oregon (2U) bootcamp. I hope to expand on my knowledge of Python, SQL, R, Numpy, and Tableau. 
+🌱 I'm currently learning data analysis through University of Oregon bootcamp. I am rapidly expanding on my knowledge of Python, SQL, R, Numpy, and Tableau. 
 
-👯 I’m looking to collaborate on anything to expand my knowledge and portfolio. We all have to start somewhere!
+
 
 
 
@@ -12,7 +12,6 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
