@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-My name is *Brandon Driver* and I live in Portland, Oregon. I'm an aspiring data analyst working primarily with Python and SQL.
+My name is *Brandon Driver* and I live in Portland, Oregon. 
 
 🌱 I'm currently learning data analysis through University of Oregon bootcamp. I am rapidly expanding on my knowledge of Python, SQL, R, Numpy, and Tableau. 
 
+🤔 I’m looking for help with breaking into a career in data!
 
 📫 How to reach me: 
 ### Brandon Driver
