@@ -10,6 +10,7 @@ My name is *Brandon Driver* and I live in Portland, Oregon.
 ### Brandon Driver
 - [Email](mailto:brandon.p.driver@gmail.com "Brandon Driver")
 - [LinkedIn](https://www.linkedin.com/in/bpdriver/ "LinkedIn Profile - Brandon Driver")
+- [Tableao](https://public.tableau.com/app/profile/brandon.paul.driver/viz/CitiBikeNYC_16559995389450/NYCCitiBike?publish=yes "Bikesharing project")
 
 
 <!--
