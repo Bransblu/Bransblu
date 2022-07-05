@@ -11,7 +11,7 @@ My name is *Brandon Driver* and I live in Portland, Oregon.
 - [Email](mailto:brandon.p.driver@gmail.com "Brandon Driver")
 - [LinkedIn](https://www.linkedin.com/in/bpdriver/ "LinkedIn Profile - Brandon Driver")
 - [Tableao](https://public.tableau.com/app/profile/brandon.paul.driver/viz/CitiBikeNYC_16559995389450/NYCCitiBike?publish=yes "Bikesharing project")
-- [Tableao-Blazers](https://public.tableau.com/views/PORRatings/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link "Blazers Ratings")
+
 
 
 <!--
