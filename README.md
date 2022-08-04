@@ -2,9 +2,6 @@
 
 My name is *Brandon Driver* and I live in Portland, Oregon. 
 
-🌱 I'm currently learning data analysis through University of Oregon bootcamp. I am rapidly expanding on my knowledge of Python, SQL, R, Numpy, and Tableau. 
-
-🤔 I’m looking for help with breaking into a career in data!
 
 
 ### Portfolio
@@ -13,8 +10,8 @@ My name is *Brandon Driver* and I live in Portland, Oregon.
 --------------------
 📫 How to reach me: 
 ### Brandon Driver
-- [Email](mailto:brandon.p.driver@gmail.com "Brandon Driver")
-- [LinkedIn](https://www.linkedin.com/in/bpdriver/ "LinkedIn Profile - Brandon Driver")
+- [Brandon.p.driver@gmail.com](mailto:brandon.p.driver@gmail.com "Brandon Driver")
+- [www.linkedin.com/in/bpdriver/](https://www.linkedin.com/in/bpdriver/ "LinkedIn Profile - Brandon Driver")
 
 
 
