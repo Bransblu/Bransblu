@@ -1,9 +1,3 @@
-### Hi there 👋
-
-My name is *Brandon Driver* and I live in Portland, Oregon. 
-
-
-
 ### Portfolio
 - [Tableao](https://public.tableau.com/app/profile/brandon.paul.driver/viz/CitiBikeNYC_16559995389450/NYCCitiBike?publish=yes "Bikesharing project")
 
